@@ -1,0 +1,1 @@
+# Balanced Diet Tracker (Vite)\n\n## Quick start\n\n1. npm install\n2. npm run dev\n\nOpen http://localhost:5173\n
